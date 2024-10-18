@@ -1,37 +1,18 @@
-- 👋 Hi, I’m @akansha-z
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi! My name is Akansha and welcome to my GitHub profile!
 
-#include <stdio.h>
-#include <string.h>
-#include <math.h>
-#include <stdlib.h>
+I am passionate about Machine Learning, Data Analytics, and Data Visualization, and am currently exploring the world of open-source programming. I thrive in extracting insights from data and using visuals to tell compelling stories, and I am constantly seeking to improve my skills in this domain.
 
-float main() {
+Art & Technology Enthusiast:
 
-float a,b,c,z,y,x,w; 
-   printf("Enter 1st number; ");
-   scanf("%0.2f",&a);
-   printf("Enter 2nd number; ");
-   scanf("%0.2f",&b);
-   printf("Enter the function you want to peform;\n 1.Press 1 for add\n 2.Press 2 for subtract\n 3.Press 3 for multiplication\n 4.Press 4 for division ");
-   scanf("%0.2f",&c);
-   z=a+b;
-   y=a-b;
-   x=a*b;
-   w=a/b;
-   if (c==1)
-      {printf("The awnser is ;%0.2f",z);} 
-   if (c==2)
-      {printf("The awnser is ;%0.2f",y); }
-   if (c==3)
-      {printf("The awnser is ;%0.2f",x); }
-   if (c==4)
-      {printf("The awnser is ;%0.02f",w); }
-}
-<!---
-akansha-z/akansha-z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I believe in the power of creativity and technology working together. I am particularly interested in the intersection between art and technology—a field I have begun exploring through Blender, which allows me to visualize ideas in new and innovative ways. I am excited to deepen my knowledge in this area, combining aesthetics and tech to push the boundaries of both fields.
+
+Finance & Fintech:
+
+In addition to tech, I have a growing interest in finance, particularly in how technology is reshaping the financial industry, also known as Fintech. I am dedicated to learning more about personal finance and money management and I am actively seeking resources that explore this fascinating intersection. I am also focused on improving my proficiency with tools like Tableau and have begun diving into Power BI to enhance my skills in financial data visualization and analysis.
+
+Leadership & Initiative:
+
+I take pride in taking initiative, especially in group tasks. I have been actively involved in various college associations, including: Alexa Developers, Computing Technology Association and Directorate of Student Affairs.
+Through these associations, I have gained valuable experience in event management and public speaking, hosting both technical and non-technical events. These opportunities have sharpened my organizational skills and allowed me to develop a strong presence in front of diverse audiences.
+
+Thank you for stopping by, and feel free to connect if you share similar interests or want to collaborate on exciting projects!
