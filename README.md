@@ -1,4 +1,4 @@
-Hi! My name is Akansha and welcome to my GitHub Profile
+Hi! My name is Akansha and welcome to my GitHub Profile!
 
 I am passionate about Machine Learning, Data Analytics, and Data Visualization, and am currently exploring the world of open-source programming. I thrive in extracting insights from data and using visuals to tell compelling stories, and I am constantly seeking to improve my skills in this domain.
 
